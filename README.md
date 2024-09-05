@@ -1,4 +1,4 @@
-# PROJECT
+# WEATHER PREDICTIONS PROJECT
 
 ## Problem Statement
 
