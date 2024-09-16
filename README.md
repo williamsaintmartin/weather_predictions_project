@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-I want to predict the apparent temperatures, for the next 7 days, at a specific address in France, to assess how the weather conditions will feel there.
+I want to predict the apparent temperatures, for tomorrow, at a specific address in France, to assess how the weather conditions will feel there.
 
 ## Technologies Used
 
