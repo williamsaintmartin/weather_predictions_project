@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-I want to predict the apparent temperatures, for tomorrow, at a specific address in France, to assess how the weather conditions will feel there.
+I want to train a model able to predict apparent temperatures, for a given day, at a given address in France, to assess the weather conditions
 
 ## Technologies Used
 
