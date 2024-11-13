@@ -6,7 +6,7 @@ I want to analyze weather data, at an address in France, to predict tomorrow's m
 
 ## Technologies Used
 
-### Programming language
+### Programming Language
 Python (https://docs.python.org/3.11/)
 - Pandas (https://pandas.pydata.org/docs/)
 - NumPy (https://numpy.org/doc/stable/)
